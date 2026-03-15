@@ -12,6 +12,7 @@ dependencies = [
     "livekit-agents[assemblyai,deepgram,google,silero,turn-detector]~=1.2",
     "livekit-murf>=0.1.0",
     "livekit-plugins-noise-cancellation~=0.2",
+    "livekit-plugins-openai>=1.3.2",
     "python-dotenv",
 ]
 
