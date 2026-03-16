@@ -24,4 +24,4 @@ NEXUS is a Jarvis-inspired personal AI voice assistant built for the Murf AI Voi
 4. Open agents-playground.livekit.io and connect!
 
 ## Built by
-Siva Subrahmanyam — NIAT Student, Hyderabad
+Siva Subramanyam — NIAT Student, Hyderabad
