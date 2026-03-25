@@ -16,6 +16,7 @@ NEXUS is a Jarvis-inspired personal AI voice assistant built for the Murf AI Voi
 - Deepgram STT — accurate speech recognition
 - Google Gemini — intelligent AI reasoning
 - Python — backend agent
+- Groq API – fast LLM inference
 
 ## How to run
 1. Clone this repo
